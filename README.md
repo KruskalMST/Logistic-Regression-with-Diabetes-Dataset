@@ -1,0 +1,1 @@
+Binary logistic regression used to analyze a diabetes dataset from the Kaggle (https://www.kaggle.com/) website. Link to dataset located in the presentation's last slide at the end of the py or google colab file.
